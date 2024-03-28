@@ -13,9 +13,9 @@ Machine Learning Internship: Worked as a Machine Learning Intern, developing pre
 Projects -
 Here are some notable projects I've worked on:
 
-Project 1: Ecommerce Sales Analysis using PowerBI.
-Project 2: CyberGuard: A Machine Learning Approach For Robust Spam Detection.
-Project 3: Real Estates: Predicting Property Prices With Machine Learning.
+Project 1:- Ecommerce Sales Analysis using PowerBI.
+Project 2:- CyberGuard: A Machine Learning Approach For Robust Spam Detection.
+Project 3:- Real Estates: Predicting Property Prices With Machine Learning.
 Each project demonstrates my proficiency in different aspects of Data Analysis and ML.
 
 Certifications -
