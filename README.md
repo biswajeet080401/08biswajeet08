@@ -1,4 +1,5 @@
 Biswajeet Jena - Entry Level Data Analyst 👨‍💻
+
 Introduction
 Welcome to my GitHub profile! I am Biswajeet Jena, a final year Computer Science and Engineering student with a passion for Data Analysis and Machine Learning (ML). This repository showcases my projects, internships, certifications, and skills in ML and Data Analysis.
 
@@ -14,6 +15,7 @@ Here are some notable projects I've worked on:
 
 Project 1: Ecommerce Sales Analysis using PowerBI
 Project 2: CyberGuard: A Machine Learning Approach For Robust Spam Detection
+
 Project 3: Real Estates: Predicting Property Prices With Machine Learning
 Each project demonstrates my proficiency in different aspects of Data Analysis and ML.
 
