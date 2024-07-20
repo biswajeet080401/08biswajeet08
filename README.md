@@ -1,10 +1,7 @@
 Biswajeet Jena - Entry Level Data Analyst 👨‍💻
 
 Introduction -
-Welcome to my GitHub profile! I am Biswajeet Jena, a final year Computer Science and Engineering student with a passion for Data Analysis and Machine Learning (ML). This repository showcases my projects, internships, certifications, and skills in ML and Data Analysis.
-
-Background -
-Throughout my academic journey, I've delved deep into data science, machine learning, and artificial intelligence. I've completed enriching internships focusing on Data Analysis, and ML honing my skills and gaining practical experience in real-world scenarios. Additionally, I've undertaken numerous projects and earned multiple certifications to augment my expertise.
+Aspiring Data Analyst with a B.Tech in Computer Science. I have hands-on experience in data analytics through internships and projects, including Amazon sales analysis using Python and Power BI. Skilled in data extraction, transformation, and visualization, I am passionate about leveraging data to drive insights and decision-making. Eager to learn and collaborate on impactful data-driven projects.
 
 Internships -
 Data Analyst Internship: Served as a Data Analyst Intern, utilizing statistical tools and SQL queries for data analysis.
