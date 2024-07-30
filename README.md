@@ -1,4 +1,4 @@
-Biswajeet Jena - Entry Level Data Analyst 👨‍💻
+Biswajeet Jena - Data Analyst 👨‍💻
 
 Introduction -
 Aspiring Data Analyst with a B.Tech in Computer Science. I have hands-on experience in data analytics through internships and projects, including Amazon sales analysis using Python and Power BI. Skilled in data extraction, transformation, and visualization, I am passionate about leveraging data to drive insights and decision-making. Eager to learn and collaborate on impactful data-driven projects.
