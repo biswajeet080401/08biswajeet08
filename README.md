@@ -1,19 +1,18 @@
 Biswajeet Jena - Data Analyst 👨‍💻
 
 Introduction -
-Aspiring Data Analyst with a B.Tech in Computer Science. I have hands-on experience in data analytics through internships and projects, including Amazon sales analysis using Python and Power BI. Skilled in data extraction, transformation, and visualization, I am passionate about leveraging data to drive insights and decision-making. Eager to learn and collaborate on impactful data-driven projects.
-
-Internships -
-Data Analyst Internship: Served as a Data Analyst Intern, utilizing statistical tools and SQL queries for data analysis.
-Machine Learning Internship: Worked as a Machine Learning Intern, developing predictive models and analyzing large datasets.
+Data Analyst with a strong foundation in Python, Power BI, SQL, and Excel, specializing in extracting actionable insights from complex datasets. Experienced in e-commerce sales analysis, FDI trends, and health diagnostics projects, with a focus on ETL, visualization, and data-driven decision-making. Completed an internship analyzing Amazon sales data and currently working as a Power BI Developer. Skilled in building interactive dashboards, performing statistical analysis, and delivering insights that drive business strategies. Passionate about leveraging data to solve real-world challenges.
 
 Projects -
 Here are some notable projects I've worked on:
 
-Project 1:- Ecommerce Sales Analysis using PowerBI.
-Project 2:- CyberGuard: A Machine Learning Approach For Robust Spam Detection.
-Project 3:- Real Estates: Predicting Property Prices With Machine Learning.
-Each project demonstrates my proficiency in different aspects of Data Analysis and ML.
+Project 1:- Amazon Sales Data Analysis.
+Project 2:- Fifa World Cup Analysis.
+Project 3:- Heart Disease Diagnosis Analysis.
+Project 4:- Foreign Direct Investment Analysis.
+Project 5:- Ecommerce Sales Analysis using PowerBI.
+Project 6:- CyberGuard: A Machine Learning Approach For Robust Spam Detection.
+Project 7:- Real Estates: Predicting Property Prices With Machine Learning.
 
 Certifications -
 I've acquired certifications in various relevant areas, including  Data Analysis, Machine Learning, Python Programming, PowerBI, and SQL Fundamentals.
