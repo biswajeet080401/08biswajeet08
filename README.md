@@ -21,7 +21,7 @@ Career Objective -
 Seeking opportunities as a Data Analyst or Machine Learning Engineer to leverage my skills and passion for data-driven decision-making.
 
 Contact Information -
-Feel free to reach out via email at [08biswajeet08@gmail.com] or connect on [www.linkedin.com/in/biswajeet-jena-1a6884300] for inquiries or collaboration opportunities.
+Feel free to reach out via email at [7biswajeetjena7@gmail.com] or connect on [www.linkedin.com/in/biswajeet-jena-1a6884300] for inquiries or collaboration opportunities.
 
 Thank you for visiting my GitHub profile! 🚀
 
