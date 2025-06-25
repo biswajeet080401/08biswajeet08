@@ -1,8 +1,7 @@
 Biswajeet Jena - Data Analyst 👨‍💻
 
 Introduction -
-Data Analyst with a strong foundation in Python, Power BI, SQL, and Excel, specializing in extracting actionable insights from complex datasets. Experienced in e-commerce sales analysis, FDI trends, and health diagnostics projects, with a focus on ETL, visualization, and data-driven decision-making. Completed an internship analyzing Amazon sales data and currently working as a Power BI Developer. Skilled in building interactive dashboards, performing statistical analysis, and delivering insights that drive business strategies. Passionate about leveraging data to solve real-world challenges.
-
+Analytical and detail-oriented Data Analyst with 1 year of hands-on experience in data cleaning, transformation, visualization, and reporting. Proficient in SQL, Python, Power BI, and Excel. Strong understanding of ETL pipelines, KPI development, business reporting, and stakeholder collaboration. Demonstrated ability to turn complex datasets into actionable business insights that support data-driven decision-making.
 Projects -
 Here are some notable projects I've worked on:
 
